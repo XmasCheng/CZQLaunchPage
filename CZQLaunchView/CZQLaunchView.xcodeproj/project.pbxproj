@@ -111,11 +111,9 @@
 		1A1D8CF22017119200355102 /* CZQLaunchView */ = {
 			isa = PBXGroup;
 			children = (
+				1A1D8D2F201860EE00355102 /* CZQLaunch */,
 				1A1D8CF32017119200355102 /* AppDelegate.swift */,
 				1A1D8CF52017119200355102 /* ViewController.swift */,
-				1A1D8D21201711CB00355102 /* CZQLaunchView.swift */,
-				1A1D8D232017197500355102 /* CZQJumpButton.swift */,
-				1A1D8D2520181AD900355102 /* UIImage+GIF.swift */,
 				1A1D8D2820181B6B00355102 /* guideImage1.gif */,
 				1A1D8D2720181B6B00355102 /* guideImage2.gif */,
 				1A1D8D2920181B6C00355102 /* guideImage3.gif */,
@@ -144,6 +142,16 @@
 				1A1D8D152017119200355102 /* Info.plist */,
 			);
 			path = CZQLaunchViewUITests;
+			sourceTree = "<group>";
+		};
+		1A1D8D2F201860EE00355102 /* CZQLaunch */ = {
+			isa = PBXGroup;
+			children = (
+				1A1D8D21201711CB00355102 /* CZQLaunchView.swift */,
+				1A1D8D232017197500355102 /* CZQJumpButton.swift */,
+				1A1D8D2520181AD900355102 /* UIImage+GIF.swift */,
+			);
+			path = CZQLaunch;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

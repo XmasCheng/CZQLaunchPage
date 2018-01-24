@@ -1,10 +1,11 @@
 //
 //  UIImage+GIF.swift
-//  GIF-Swift
+//  CZQLaunchView
 //
-//  Created by iOSDevCenters on 11/12/15.
-//  Copyright © 2016 iOSDevCenters. All rights reserved.
+//  Created by parkhome1 on 2018/1/23.
+//  Copyright © 2018年 parkhome1. All rights reserved.
 //
+
 
 import UIKit
 import ImageIO
